@@ -10,7 +10,6 @@ import org.springframework.web.util.UriComponentsBuilder;
 
 import com.rocketseat.passin.dto.attendee.AttendeeBadgeResponseDTO;
 import com.rocketseat.passin.service.AttendeeService;
-import com.rocketseat.passin.service.CheckInService;
 
 import lombok.RequiredArgsConstructor;
 
