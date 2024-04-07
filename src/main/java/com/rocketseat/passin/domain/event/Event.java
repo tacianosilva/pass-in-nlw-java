@@ -25,6 +25,9 @@ public class Event {
     private String id;
 
     @Column(nullable = false)
+    private String title;
+
+    @Column(nullable = false)
     private String details;
 
     @Column(nullable = false, unique = true)
